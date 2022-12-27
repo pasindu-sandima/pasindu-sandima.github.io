@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/CV_Pasindu_Sandima_Senarath.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
